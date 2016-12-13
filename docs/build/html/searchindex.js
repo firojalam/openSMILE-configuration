@@ -1,0 +1,1 @@
+Search.setIndex({envversion:49,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,contrib:0,featur:0,index:0,installat:0,modul:0,page:0,search:0,support:0},titles:["Welcome to openSMILE-configuration&#8217;s documentation!"],titleterms:{configur:0,document:0,indice:0,opensmile:0,tabl:0,welcom:0}})
